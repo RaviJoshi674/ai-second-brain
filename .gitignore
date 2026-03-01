@@ -1,0 +1,21 @@
+# Environments
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Endee & Data
+endee-data/
+data/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Evaluation Logs
+*.log
